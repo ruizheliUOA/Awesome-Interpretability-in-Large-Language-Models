@@ -29,18 +29,23 @@
 | [**Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models**](https://arxiv.org/pdf/2406.16033) <br>| arXiv | 2024-06-23 | - | - |
 | [**Mechanistic Understanding and Mitigation of Language Model Non-Factual Hallucinations**](https://arxiv.org/pdf/2403.18167v2) <br>| arXiv | 2024-06-17 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jacobdunefsky/transcoder_circuits) <br> [**Transcoders Find Interpretable LLM Feature Circuits**](https://arxiv.org/pdf/2406.11944) <br>| arXiv | 2024-06-17 | [Github](https://github.com/jacobdunefsky/transcoder_circuits) | - |
-| [**Interpretability Illusions in the Generalization of Simplified Models**](https://arxiv.org/pdf/2312.03656) <br>| arXiv | 2024-06-05 | - | - |
+| [**Interpretability Illusions in the Generalization of Simplified Models**](https://arxiv.org/pdf/2406.02128v1) <br>| arXiv | 2024-06-04 | - | - |
+| [**Iteration Head: A Mechanistic Study of Chain-of-Thought**](https://arxiv.org/pdf/2312.03656) <br>| arXiv | 2024-06-05 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/samuelperezdi/nuclr-icml) <br> [**From Neurons to Neutrons: A Case Study in Interpretability**](https://arxiv.org/pdf/2405.17425) <br>| ICML | 2024-05-27 | [Github](https://github.com/samuelperezdi/nuclr-icml)| - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/starship006/backup_research) <br> [**Explorations of Self-Repair in Language Models**](https://arxiv.org/pdf/2402.15390v2) <br>| ICML | 2024-05-26 | [Github](https://github.com/starship006/backup_research)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ruizheliUOA/Anchored_Bias_GPT2) <br> [**Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions**](https://arxiv.org/pdf/2405.03205v2) <br>| arXiv | 2024-05-23 | [Github](https://github.com/ruizheliUOA/Anchored_Bias_GPT2)| - |
 | [**Using Degeneracy in the Loss Landscape for Mechanistic Interpretability**](https://arxiv.org/pdf/2405.10927) <br>| arXiv | 2024-05-20 | - | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/jgcarrasco/acronyms_paper) <br> [**How does GPT-2 Predict Acronyms? Extracting and Understanding a Circuit via Mechanistic Interpretability**](https://arxiv.org/pdf/2405.04156) <br>| arXiv | 2024-05-07 | [Github](https://github.com/jgcarrasco/acronyms_paper)| - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/jgcarrasco/acronyms_paper) <br> [**How does GPT-2 Predict Acronyms? Extracting and Understanding a Circuit via Mechanistic Interpretability**](https://arxiv.org/pdf/2405.04156) <br>| AISTATS | 2024-05-07 | [Github](https://github.com/jgcarrasco/acronyms_paper)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/joykirat18/How-To-Think-Step-by-Step) <br> [**How to think step-by-step: A mechanistic understanding of chain-of-thought reasoning**](https://arxiv.org/pdf/2402.18312) <br>| arXiv | 2024-05-06 | [Github](https://github.com/joykirat18/How-To-Think-Step-by-Step)| - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/jmerullo/circuit_reuse) <br> [**Circuit Component Reuse Across Tasks in Transformer Language Models**](https://arxiv.org/pdf/2310.08744) <br>| ICLR | 2024-05-06 | [Github](https://github.com/jmerullo/circuit_reuse)| - |
 | [**How to use and interpret activation patching**](https://arxiv.org/pdf/2404.15255v1) <br>| arXiv | 2024-04-23 | - | - |
 | [**Understanding Addition in Transformers**](https://arxiv.org/pdf/2310.13121v9) <br>| arXiv | 2024-04-23 | - | - |
 | [**Towards Uncovering How Large Language Model Works: An Explainability Perspective**](https://arxiv.org/pdf/2402.10688) <br>| arXiv | 2024-04-15 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/aadityasingh/icl-dynamics) <br> [**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**](https://arxiv.org/pdf/2404.07129) <br>| ICML | 2024-04-10 | [Github](https://github.com/aadityasingh/icl-dynamics)| - |
 | [**Does Transformer Interpretability Transfer to RNNs?**](https://arxiv.org/pdf/2404.05971v1) <br>| arXiv | 2024-04-09 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/saprmarks/feature-circuits) <br> [**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**](https://arxiv.org/pdf/2403.19647v2) <br>| arXiv | 2024-03-31 | [Github](https://github.com/saprmarks/feature-circuits)| [Demo](https://feature-circuits.xyz/) |
 | [**A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task**](https://arxiv.org/pdf/2402.11917) <br>| arXiv | 2024-02-28 | - | - |
+| [**A Language Model's Guide Through Latent Space**](https://arxiv.org/pdf/2402.14433) <br>| arXiv | 2024-02-22 | - | - |
 | [**Interpreting Shared Circuits for Ordered Sequence Prediction in a Large Language Model**](https://arxiv.org/pdf/2311.04131v3) <br>| arXiv | 2024-02-22 | - | - |
 | [**Identifying Semantic Induction Heads to Understand In-Context Learning**](https://arxiv.org/pdf/2402.13055) <br>| arXiv | 2024-02-20 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ejmichaud/neural-verification) <br> [**Opening the AI black box: program synthesis via mechanistic interpretability**](https://arxiv.org/pdf/2402.05110) <br>| arXiv | 2024-02-07 | [Github](https://github.com/ejmichaud/neural-verification)| - |
@@ -49,6 +54,7 @@
 | [**Successor Heads: Recurring, Interpretable Attention Heads In The Wild**](https://openreview.net/pdf?id=kvcbV8KQsi) <br>| ICLR | 2024-01-16 | - | - |
 | [**Towards Best Practices of Activation Patching in Language Models: Metrics and Methods**](https://openreview.net/pdf?id=Hf17y6u9BC) <br>| ICLR | 2024-01-16 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ajyl/dpo_toxic) <br> [**A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity**](https://arxiv.org/pdf/2401.01967) <br>| arXiv | 2024-01-03 |  [Github](https://github.com/ajyl/dpo_toxic) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/ed1d1a8d/prompt-injection-interp) <br> [**Forbidden Facts: An Investigation of Competing Objectives in Llama-2**](https://arxiv.org/pdf/2312.08793) <br>| ATTRIB@NeurIPS | 2023-12-31 |  [Github](https://github.com/ed1d1a8d/prompt-injection-interp) | [Blog](https://www.lesswrong.com/posts/Ei8q37PB3cAky6kaK/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/amakelov/activation-patching-illusion) <br> [**Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching**](https://arxiv.org/pdf/2311.17030) <br>| ATTRIB@NeurIPS | 2023-12-06 |  [Github](https://github.com/amakelov/activation-patching-illusion) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/understanding-search/structured-representations-maze-transformers) <br> [**Structured World Representations in Maze-Solving Transformers**](https://arxiv.org/pdf/2312.02566) <br>| UniReps@NeurIPS | 2023-12-05 |  [Github](https://github.com/understanding-search/structured-representations-maze-transformers) | - |
 | [**Generating Interpretable Networks using Hypernetworks**](https://arxiv.org/pdf/2312.03051) <br>| arXiv | 2023-12-05 |  - | - |
@@ -59,7 +65,9 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ArthurConmy/Automatic-Circuit-Discovery) <br> [**Towards Automated Circuit Discovery for Mechanistic Interpretability**](https://arxiv.org/pdf/2304.14997) <br>| NeurIPS | 2023-10-28 | [Github](https://github.com/ArthurConmy/Automatic-Circuit-Discovery) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/yifan-h/MechanisticProbe) <br> [**Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models**](https://arxiv.org/pdf/2310.14491) <br>| EMNLP | 2023-10-23 | [Github](https://github.com/yifan-h/MechanisticProbe) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/mechanistic-interpretability-grokking/progress-measures-paper) <br> [**Progress measures for grokking via mechanistic interpretability**](https://arxiv.org/pdf/2301.05217) <br>| ICLR | 2023-10-19 | [Github](https://github.com/mechanistic-interpretability-grokking/progress-measures-paper) | [Blog](https://www.neelnanda.io/grokking-paper) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/SERI-MATS-2023-Streamlit-pages) <br> [**Copy Suppression: Comprehensively Understanding an Attention Head**](https://arxiv.org/pdf/2310.04625) <br>| arXiv | 2023-10-06 | [Github](https://github.com/callummcdougall/SERI-MATS-2023-Streamlit-pages) | [Blog & Demo](https://copy-suppression.streamlit.app/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bilal-chughtai/rep-theory-mech-interp) <br> [**A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations**](https://arxiv.org/pdf/2302.03025) <br>| ICML | 2023-05-24 | [Github](https://github.com/bilal-chughtai/rep-theory-mech-interp) | - |
+| [**Localizing Model Behavior with Path Patching**](https://arxiv.org/pdf/2304.05969) <br>| arXiv | 2023-05-16 | - | - |
 | [**N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models**](https://arxiv.org/pdf/2304.12918) <br>| ICLR Workshop | 2023-04-22 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/redwoodresearch/Easy-Transformer) <br> [**Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small**](https://arxiv.org/pdf/2211.00593) <br>| ICLR | 2023-01-20 | [Github](https://github.com/redwoodresearch/Easy-Transformer) | - |
 | [**Interpreting Neural Networks through the Polytope Lens**](https://arxiv.org/pdf/2211.12312) <br>| arXiv | 2022-11-22 | - | - |
@@ -69,7 +77,9 @@
 
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Interpreting Attention Layer Outputs with Sparse Autoencoders**](https://arxiv.org/pdf/2406.17759v1) <br>| arXiv | 2024-06-25 | - | [Demo](https://robertzk.github.io/circuit-explorer) |
 | [**Improving Language Models Trained with Translated Data via Continual Pre-Training and Dictionary Learning Analysis**](https://arxiv.org/pdf/2405.14277) <br>| arXiv | 2024-05-23 | - | - |
+| [**Automatically Identifying Local and Global Circuits with Linear Computation Graphs**](https://arxiv.org/pdf/2405.13868v1) <br>| arXiv | 2024-05-22 | - | - |
 | [**Improving Dictionary Learning with Gated Sparse Autoencoders**](https://arxiv.org/pdf/2404.16014v2) <br>| arXiv | 2024-04-30 | - | - |
 | [**Dictionary Learning Improves Patch-Free Circuit Discovery in Mechanistic Interpretability: A Case Study on Othello-GPT**](https://arxiv.org/pdf/2402.12201) <br>| arXiv | 2024-02-19 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/HoagyC/sparse_coding) <br> [**Sparse Autoencoders Find Highly Interpretable Features in Language Models**](https://openreview.net/pdf?id=F76bwRSLeK) <br>| ICLR | 2024-01-16 | [Github](https://github.com/HoagyC/sparse_coding) | - |
@@ -90,6 +100,7 @@
 
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Benchmarking Mental State Representations in Language Models**](https://arxiv.org/pdf/2406.17513) <br>| MI@ICML | 2024-06-25 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/aryamanarora/causalgym) <br> [**CausalGym: Benchmarking causal interpretability methods on linguistic tasks**](https://arxiv.org/pdf/2402.12560) <br>| arXiv | 2024-02-19 | [Github](https://github.com/aryamanarora/causalgym) | - |
 
 ## Enhancing Interpretability
