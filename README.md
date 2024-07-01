@@ -1,7 +1,9 @@
 # Awesome-Interpretability-in-Large-Language-Models
 
 # Awesome Interpretability Libraries
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerLensOrg/TransformerLens) [**TransformerLens**](https://github.com/TransformerLensOrg/TransformerLens): A Library for Mechanistic Interpretability of Generative Language Models. ([Doc](https://transformerlensorg.github.io/TransformerLens/), [Tutorial](https://arena3-chapter1-transformer-interp.streamlit.app/[1.2]_Intro_to_Mech_Interp), [Demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Main_Demo.ipynb))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ndif-team/nnsight) [**nnsight**](https://github.com/ndif-team/nnsight): enables interpreting and manipulating the internals of deep learned models. ([Doc](https://nnsight.net/documentation/), [Tutorial](https://nnsight.net/tutorials/))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jbloomAus/SAELens) [**SAE Lens**](https://github.com/jbloomAus/SAELens): train and analyse SAE. ([Doc](https://jbloomaus.github.io/SAELens/), [Tutorial](https://github.com/jbloomAus/SAELens/tree/main/tutorials))
 
 # Awesome Interpretability Papers
 
