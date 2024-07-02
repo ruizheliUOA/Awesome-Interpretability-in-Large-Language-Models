@@ -9,6 +9,8 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/pyreft) [**pyreft**](https://github.com/stanfordnlp/pyreft): A Powerful, Efficient and Interpretable fine-tuning method. ([Paper](https://arxiv.org/pdf/2404.03592), [Demo](https://colab.research.google.com/github/stanfordnlp/pyreft/blob/main/main_demo.ipynb))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vgel/repeng) [**repeng**](https://github.com/vgel/repeng): A Python library for generating control vectors with representation engineering. ([Paper](https://arxiv.org/pdf/2310.01405), [Blog](https://vgel.me/posts/representation-engineering/))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/penzai) [**Penzai**](https://github.com/google-deepmind/penzai): a JAX library for writing models as legible, functional pytree data structures, along with tools for visualizing, modifying, and analyzing them. ([Doc](https://penzai.readthedocs.io/en/stable/), [Tutorial](https://penzai.readthedocs.io/en/stable/notebooks/how_to_think_in_penzai.html))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rachtibat/LRP-eXplains-Transformers) [**LXT: LRP eXplains Transformers**](https://github.com/rachtibat/LRP-eXplains-Transformers): Layer-wise Relevance Propagation (LRP) extended to handle attention layers in Large Language Models (LLMs) and Vision Transformers (ViTs). ([Paper](https://arxiv.org/pdf/2402.05602), [Doc](https://lxt.readthedocs.io/en/latest/))
+
 
 
 
@@ -43,6 +45,8 @@
 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP**](https://arxiv.org/pdf/2406.12618)| arXiv | 2024-06-18 | - |
+|[**A Primer on the Inner Workings of Transformer-based Language Models**](https://arxiv.org/pdf/2405.00208)| arXiv | 2024-05-02 | - |
 |[**Mechanistic Interpretability for AI Safety -- A Review**](https://arxiv.org/pdf/2404.14082)| arXiv | 2024-04-22 | - |
 |[**From Understanding to Utilization: A Survey on Explainability for Large Language Models**](https://arxiv.org/pdf/2401.12874v2)| arXiv | 2024-02-22 | - |
 |[**Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks**](https://arxiv.org/pdf/2207.13243)| arXiv | 2023-08-18 | - |
@@ -59,16 +63,30 @@
 ## Interpretable Analysis of LLMs
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/Betswish/MIRAGE) <br> [**Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation**](https://arxiv.org/pdf/2406.13663) <br>| arXiv | 2024-07-01 | [Github](https://github.com/Betswish/MIRAGE) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/eliahuhorwitz/Spectral-DeTuning) <br> [**Recovering the Pre-Fine-Tuning Weights of Generative Models**](https://arxiv.org/pdf/2402.10208) <br>| ICML | 2024-07-01 | [Github](https://github.com/eliahuhorwitz/Spectral-DeTuning) | [Blog](https://vision.huji.ac.il/spectral_detuning/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/sfeucht/footprints) <br> [**Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs**](https://arxiv.org/pdf/2406.20086) <br>| arXiv | 2024-06-28 | [Github](https://github.com/sfeucht/footprints) | [Blog](https://footprints.baulab.info/) |
+| [**Multi-property Steering of Large Language Models with Dynamic Activation Composition**](https://arxiv.org/pdf/2406.17563) <br>| arXiv | 2024-06-25 | - | - |
+| [**Confidence Regulation Neurons in Language Models**](https://arxiv.org/pdf/2406.16254) <br>| arXiv | 2024-06-24 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/JasonGross/guarantees-based-mechanistic-interpretability) <br> [**Compact Proofs of Model Performance via Mechanistic Interpretability**](https://arxiv.org/pdf/2406.11779) <br>| arXiv | 2024-06-24 | [Github](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability/) | - |
 | [**Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models**](https://arxiv.org/pdf/2406.16033) <br>| arXiv | 2024-06-23 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/dhgottesman/keen_estimating_knowledge_in_llms) <br> [**Estimating Knowledge in Large Language Models Without Generating a Single Token**](https://arxiv.org/pdf/2406.12673) <br>| arXiv | 2024-06-18 | [Github](https://github.com/dhgottesman/keen_estimating_knowledge_in_llms) | - |
 | [**Mechanistic Understanding and Mitigation of Language Model Non-Factual Hallucinations**](https://arxiv.org/pdf/2403.18167v2) <br>| arXiv | 2024-06-17 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jacobdunefsky/transcoder_circuits) <br> [**Transcoders Find Interpretable LLM Feature Circuits**](https://arxiv.org/pdf/2406.11944) <br>| arXiv | 2024-06-17 | [Github](https://github.com/jacobdunefsky/transcoder_circuits) | - |
-| [**Interpretability Illusions in the Generalization of Simplified Models**](https://arxiv.org/pdf/2406.02128v1) <br>| arXiv | 2024-06-04 | - | - |
-| [**Iteration Head: A Mechanistic Study of Chain-of-Thought**](https://arxiv.org/pdf/2312.03656) <br>| arXiv | 2024-06-05 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/kdu4108/measureLM) <br> [**Context versus Prior Knowledge in Language Models**](https://arxiv.org/pdf/2404.04633) <br>| ACL | 2024-06-16 | [Github](https://github.com/kdu4108/measureLM) | - |
+| [**Talking Heads: Understanding Inter-layer Communication in Transformer Language Models**](https://arxiv.org/pdf/2406.09519) <br>| arXiv | 2024-06-13 | - | - |
+| [**Iteration Head: A Mechanistic Study of Chain-of-Thought**](https://arxiv.org/pdf/2406.02128v1) <br>| arXiv | 2024-06-05 | - | - |
+| [**Interpretability Illusions in the Generalization of Simplified Models**](https://arxiv.org/pdf/2312.03656) <br>| arXiv | 2024-06-04 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/k-amara/syntax-shap) <br> [**SyntaxShap: Syntax-aware Explainability Method for Text Generation**](https://arxiv.org/pdf/2402.09259) <br>| arXiv | 2024-06-03 | [Github](https://github.com/k-amara/syntax-shap)| [Blog](https://syntaxshap.ivia.ch/) |
+| [**Calibrating Reasoning in Language Models with Internal Consistency**](https://arxiv.org/pdf/2405.18711) <br>| arXiv | 2024-05-29 | - | - |
+| [**Dual Process Learning: Controlling Use of In-Context vs. In-Weights Strategies with Weight Forgetting**](https://arxiv.org/pdf/2406.00053) <br>| arXiv | 2024-05-28 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/samuelperezdi/nuclr-icml) <br> [**From Neurons to Neutrons: A Case Study in Interpretability**](https://arxiv.org/pdf/2405.17425) <br>| ICML | 2024-05-27 | [Github](https://github.com/samuelperezdi/nuclr-icml)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/starship006/backup_research) <br> [**Explorations of Self-Repair in Language Models**](https://arxiv.org/pdf/2402.15390v2) <br>| ICML | 2024-05-26 | [Github](https://github.com/starship006/backup_research)| - |
+| [**Emergence of a High-Dimensional Abstraction Phase in Language Transformers**](https://arxiv.org/pdf/2405.15471) <br>| arXiv | 2024-05-24 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ruizheliUOA/Anchored_Bias_GPT2) <br> [**Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions**](https://arxiv.org/pdf/2405.03205v2) <br>| arXiv | 2024-05-23 | [Github](https://github.com/ruizheliUOA/Anchored_Bias_GPT2)| - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/JoshEngels/MultiDimensionalFeatures) <br> [**Not All Language Model Features Are Linear**](https://arxiv.org/pdf/2405.14860) <br>| arXiv | 2024-05-23 | [Github](https://github.com/JoshEngels/MultiDimensionalFeatures)| - |
 | [**Using Degeneracy in the Loss Landscape for Mechanistic Interpretability**](https://arxiv.org/pdf/2405.10927) <br>| arXiv | 2024-05-20 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/AIRI-Institute/LLM-Microscope) <br> [**Your Transformer is Secretly Linear**](https://arxiv.org/pdf/2405.12250) <br>| arXiv | 2024-05-19 | [Github](https://github.com/AIRI-Institute/LLM-Microscope)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jgcarrasco/acronyms_paper) <br> [**How does GPT-2 Predict Acronyms? Extracting and Understanding a Circuit via Mechanistic Interpretability**](https://arxiv.org/pdf/2405.04156) <br>| AISTATS | 2024-05-07 | [Github](https://github.com/jgcarrasco/acronyms_paper)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/joykirat18/How-To-Think-Step-by-Step) <br> [**How to think step-by-step: A mechanistic understanding of chain-of-thought reasoning**](https://arxiv.org/pdf/2402.18312) <br>| arXiv | 2024-05-06 | [Github](https://github.com/joykirat18/How-To-Think-Step-by-Step)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jmerullo/circuit_reuse) <br> [**Circuit Component Reuse Across Tasks in Transformer Language Models**](https://arxiv.org/pdf/2310.08744) <br>| ICLR | 2024-05-06 | [Github](https://github.com/jmerullo/circuit_reuse)| - |
@@ -77,11 +95,20 @@
 | [**Towards Uncovering How Large Language Model Works: An Explainability Perspective**](https://arxiv.org/pdf/2402.10688) <br>| arXiv | 2024-04-15 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/aadityasingh/icl-dynamics) <br> [**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**](https://arxiv.org/pdf/2404.07129) <br>| ICML | 2024-04-10 | [Github](https://github.com/aadityasingh/icl-dynamics)| - |
 | [**Does Transformer Interpretability Transfer to RNNs?**](https://arxiv.org/pdf/2404.05971v1) <br>| arXiv | 2024-04-09 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/arnab-api/romba) <br> [**Locating and Editing Factual Associations in Mamba**](https://arxiv.org/pdf/2404.03646) <br>| arXiv | 2024-04-04 | [Github](https://github.com/arnab-api/romba)| [Demo](https://github.com/arnab-api/romba/tree/master/demo) |
+| [**Do language models plan ahead for future tokens?**](https://arxiv.org/pdf/2404.00859) <br>| arXiv | 2024-04-01 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/saprmarks/feature-circuits) <br> [**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**](https://arxiv.org/pdf/2403.19647v2) <br>| arXiv | 2024-03-31 | [Github](https://github.com/saprmarks/feature-circuits)| [Demo](https://feature-circuits.xyz/) |
+| [**Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms**](https://arxiv.org/pdf/2403.17806) <br>| arXiv | 2024-03-26 | - | - |
+| [**AtP\*: An efficient and scalable method for localizing LLM behaviour to components**](https://arxiv.org/pdf/2403.00745) <br>| arXiv | 2024-03-01 | - | - |
 | [**A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task**](https://arxiv.org/pdf/2402.11917) <br>| arXiv | 2024-02-28 | - | - |
 | [**A Language Model's Guide Through Latent Space**](https://arxiv.org/pdf/2402.14433) <br>| arXiv | 2024-02-22 | - | - |
 | [**Interpreting Shared Circuits for Ordered Sequence Prediction in a Large Language Model**](https://arxiv.org/pdf/2311.04131v3) <br>| arXiv | 2024-02-22 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/Nix07/finetuning) <br> [**Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking**](https://arxiv.org/pdf/2402.14811) <br>| ICLR | 2024-02-22 | [Github](https://github.com/Nix07/finetuning)| [Blog](https://finetuning.baulab.info/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/AnasHimmi/Hallucination-Detection-Score-Aggregation) <br> [**Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation**](https://arxiv.org/pdf/2402.13331) <br>| arXiv | 2024-02-20 | [Github](https://github.com/AnasHimmi/Hallucination-Detection-Score-Aggregation)| - |
 | [**Identifying Semantic Induction Heads to Understand In-Context Learning**](https://arxiv.org/pdf/2402.13055) <br>| arXiv | 2024-02-20 | - | - |
+| [**Backward Lens: Projecting Language Model Gradients into the Vocabulary Space**](https://arxiv.org/pdf/2402.12865) <br>| arXiv | 2024-02-20 | - | - |
+| [**Show Me How It's Done: The Role of Explanations in Fine-Tuning Language Models**](https://arxiv.org/pdf/2402.07543) <br>| ACML | 2024-02-12 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/john-hewitt/model-editing-canonical-examples) <br> [**Model Editing with Canonical Examples**](https://arxiv.org/pdf/2402.06155) <br>| arXiv | 2024-02-09 | [Github](https://github.com/john-hewitt/model-editing-canonical-examples)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ejmichaud/neural-verification) <br> [**Opening the AI black box: program synthesis via mechanistic interpretability**](https://arxiv.org/pdf/2402.05110) <br>| arXiv | 2024-02-07 | [Github](https://github.com/ejmichaud/neural-verification)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wesg52/universal-neurons) <br> [**Universal Neurons in GPT2 Language Models**](https://arxiv.org/pdf/2401.12181) <br>| arXiv | 2024-01-22 | [Github](https://github.com/wesg52/universal-neurons)| - |
 | [**Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks**](https://openreview.net/pdf?id=A0HKeKl4Nl) <br>| ICLR | 2024-01-16 | - | - |
