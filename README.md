@@ -4,6 +4,38 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerLensOrg/TransformerLens) [**TransformerLens**](https://github.com/TransformerLensOrg/TransformerLens): A Library for Mechanistic Interpretability of Generative Language Models. ([Doc](https://transformerlensorg.github.io/TransformerLens/), [Tutorial](https://arena3-chapter1-transformer-interp.streamlit.app/[1.2]_Intro_to_Mech_Interp), [Demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Main_Demo.ipynb))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ndif-team/nnsight) [**nnsight**](https://github.com/ndif-team/nnsight): enables interpreting and manipulating the internals of deep learned models. ([Doc](https://nnsight.net/documentation/), [Tutorial](https://nnsight.net/tutorials/))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jbloomAus/SAELens) [**SAE Lens**](https://github.com/jbloomAus/SAELens): train and analyse SAE. ([Doc](https://jbloomaus.github.io/SAELens/), [Tutorial](https://github.com/jbloomAus/SAELens/tree/main/tutorials))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ArthurConmy/Automatic-Circuit-Discovery) [**Automatic Circuit DisCovery**](https://github.com/ArthurConmy/Automatic-Circuit-Discovery): automatically build circuit for mechanistic interpretability. ([Paper](https://arxiv.org/pdf/2304.14997), [Demo](https://colab.research.google.com/github/ArthurConmy/Automatic-Circuit-Discovery/blob/main/notebooks/colabs/ACDC_Main_Demo.ipynb))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/pyvene) [**Pyvene**](https://github.com/stanfordnlp/pyvene): A Library for Understanding and Improving PyTorch Models via Interventions. ([Paper](https://arxiv.org/pdf/2403.07809), [Demo](https://colab.research.google.com/github/stanfordnlp/pyvene/blob/main/pyvene_101.ipynb))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/pyreft) [**pyreft**](https://github.com/stanfordnlp/pyreft): A Powerful, Efficient and Interpretable fine-tuning method. ([Paper](https://arxiv.org/pdf/2404.03592), [Demo](https://colab.research.google.com/github/stanfordnlp/pyreft/blob/main/main_demo.ipynb))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vgel/repeng) [**repeng**](https://github.com/vgel/repeng): A Python library for generating control vectors with representation engineering. ([Paper](https://arxiv.org/pdf/2310.01405), [Blog](https://vgel.me/posts/representation-engineering/))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/penzai) [**Penzai**](https://github.com/google-deepmind/penzai): a JAX library for writing models as legible, functional pytree data structures, along with tools for visualizing, modifying, and analyzing them. ([Doc](https://penzai.readthedocs.io/en/stable/), [Tutorial](https://penzai.readthedocs.io/en/stable/notebooks/how_to_think_in_penzai.html))
+
+
+
+
+# Awesome Interpretability Blogs
+- [A Barebones Guide to Mechanistic Interpretability Prerequisites](https://www.neelnanda.io/mechanistic-interpretability/prereqs)
+- [Concrete Steps to Get Started in Transformer Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
+- [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers](https://www.neelnanda.io/mechanistic-interpretability/favourite-papers)
+- [200 Concrete Open Problems in Mechanistic Interpretability](https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability)
+
+# Awesome Interpretability Tutorials
+- ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/ARENA_3.0) [ARENA 3.0](https://github.com/callummcdougall/ARENA_3.0): understand mechanistic interpretability using TransformerLens.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/interpretingdl/eacl2024_transformer_interpretability_tutorial) [EACL24: Transformer-specific Interpretability](https://projects.illc.uva.nl/indeep/tutorial/) ([Github](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial))
+
+# Awesome Interpretability Forums
+- [AI Alignment Forum](https://www.alignmentforum.org/)
+- [LessWrong](https://www.lesswrong.com/)
+
+# Awesome Interpretability Datasets
+
+# Awesome Interpretability Tools
+- ![GitHub Repo stars](https://img.shields.io/github/stars/openai/transformer-debugger) [Transformer Debugger](https://github.com/openai/transformer-debugger): investigate specific behaviors of small LLMs 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llm-transparency-tool) [LLM Transparency Tool](https://github.com/facebookresearch/llm-transparency-tool) ([Demo](https://huggingface.co/spaces/facebook/llm-transparency-tool-demo)) 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/sae_vis) [sae_vis](https://github.com/callummcdougall/sae_vis): a tool to replicate Anthropic's sparse autoencoder visualisations ([Demo](https://colab.research.google.com/drive/1oqDS35zibmL1IUQrk_OSTxdhcGrSS6yO?usp=drive_link)) 
+
+# Awesome Interpretability Programs
+- [**ML Alignment & Theory Scholars (MATS)**](https://www.matsprogram.org/): an independent research and educational seminar program that connects talented scholars with top mentors in the fields of AI alignment, interpretability, and governance.
 
 # Awesome Interpretability Papers
 
@@ -68,6 +100,8 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/yifan-h/MechanisticProbe) <br> [**Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models**](https://arxiv.org/pdf/2310.14491) <br>| EMNLP | 2023-10-23 | [Github](https://github.com/yifan-h/MechanisticProbe) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/mechanistic-interpretability-grokking/progress-measures-paper) <br> [**Progress measures for grokking via mechanistic interpretability**](https://arxiv.org/pdf/2301.05217) <br>| ICLR | 2023-10-19 | [Github](https://github.com/mechanistic-interpretability-grokking/progress-measures-paper) | [Blog](https://www.neelnanda.io/grokking-paper) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/SERI-MATS-2023-Streamlit-pages) <br> [**Copy Suppression: Comprehensively Understanding an Attention Head**](https://arxiv.org/pdf/2310.04625) <br>| arXiv | 2023-10-06 | [Github](https://github.com/callummcdougall/SERI-MATS-2023-Streamlit-pages) | [Blog & Demo](https://copy-suppression.streamlit.app/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/ajyl/mech_int_othelloGPT) <br> [**Emergent Linear Representations in World Models of Self-Supervised Sequence Models**](https://arxiv.org/pdf/2309.00941) <br>| BlackboxNLP@EMNLP | 2023-09-07 | [Github](https://github.com/ajyl/mech_int_othelloGPT) | [Blog](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/wesg52/sparse-probing-paper) <br> [**Finding Neurons in a Haystack: Case Studies with Sparse Probing**](https://arxiv.org/pdf/2305.01610) <br>| arXiv | 2023-06-02 | [Github](https://github.com/wesg52/sparse-probing-paper) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bilal-chughtai/rep-theory-mech-interp) <br> [**A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations**](https://arxiv.org/pdf/2302.03025) <br>| ICML | 2023-05-24 | [Github](https://github.com/bilal-chughtai/rep-theory-mech-interp) | - |
 | [**Localizing Model Behavior with Path Patching**](https://arxiv.org/pdf/2304.05969) <br>| arXiv | 2023-05-16 | - | - |
 | [**N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models**](https://arxiv.org/pdf/2304.12918) <br>| ICLR Workshop | 2023-04-22 | - | - |
@@ -120,19 +154,5 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/arjunkaruvally/emt_variable_binding) <br> [**Episodic Memory Theory for the Mechanistic Interpretation of Recurrent Neural Networks**](https://arxiv.org/pdf/2310.02430) <br>| arXiv | 2023-10-03 | [Github](https://github.com/arjunkaruvally/emt_variable_binding) | - |
 
 
-
-
-
-# Awesome Interpretability Blogs
-
-# Awesome Interpretability Tutorials
-
-# Awesome Interpretability Forums
-
-# Awesome Interpretability Datasets
-
-# Awesome Interpretability Tools
-
-# Awesome Interpretability Programs
-
 # Other Awesome Interpretability Resources
+- [**Daily Picks in Interpretability & Analysis of LMs**](https://huggingface.co/collections/gsarti/daily-picks-in-interpretability-and-analysis-of-lms-65ae3339949c5675d25de2f9)
