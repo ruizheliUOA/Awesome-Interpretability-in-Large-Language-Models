@@ -73,12 +73,16 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/dhgottesman/keen_estimating_knowledge_in_llms) <br> [**Estimating Knowledge in Large Language Models Without Generating a Single Token**](https://arxiv.org/pdf/2406.12673) <br>| arXiv | 2024-06-18 | [Github](https://github.com/dhgottesman/keen_estimating_knowledge_in_llms) | - |
 | [**Mechanistic Understanding and Mitigation of Language Model Non-Factual Hallucinations**](https://arxiv.org/pdf/2403.18167v2) <br>| arXiv | 2024-06-17 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jacobdunefsky/transcoder_circuits) <br> [**Transcoders Find Interpretable LLM Feature Circuits**](https://arxiv.org/pdf/2406.11944) <br>| arXiv | 2024-06-17 | [Github](https://github.com/jacobdunefsky/transcoder_circuits) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/JasonForJoy/Model-Editing-Hurt) <br> [**Model Editing Harms General Abilities of Large Language Models: Regularization to the Rescue**](https://arxiv.org/pdf/2401.04700) <br>| arXiv | 2024-06-16 | [Github](https://github.com/JasonForJoy/Model-Editing-Hurt) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/kdu4108/measureLM) <br> [**Context versus Prior Knowledge in Language Models**](https://arxiv.org/pdf/2404.04633) <br>| ACL | 2024-06-16 | [Github](https://github.com/kdu4108/measureLM) | - |
 | [**Talking Heads: Understanding Inter-layer Communication in Transformer Language Models**](https://arxiv.org/pdf/2406.09519) <br>| arXiv | 2024-06-13 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/PAIR-code/interpretability) <br> [**Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models**](https://arxiv.org/pdf/2401.06102) <br>| ICML | 2024-06-06 | [Github](https://github.com/PAIR-code/interpretability/tree/master/patchscopes/code) | [Blog](https://pair-code.github.io/interpretability/patchscopes/) |
+| [**Learned feature representations are biased by complexity, learning order, position, and more**](https://arxiv.org/pdf/2405.05847) <br>| arXiv | 2024-06-06 | [Demo](https://gist.github.com/lampinen-dm/b6541019ef4cf2988669ab44aa82460b) | - |
 | [**Iteration Head: A Mechanistic Study of Chain-of-Thought**](https://arxiv.org/pdf/2406.02128v1) <br>| arXiv | 2024-06-05 | - | - |
 | [**Interpretability Illusions in the Generalization of Simplified Models**](https://arxiv.org/pdf/2312.03656) <br>| arXiv | 2024-06-04 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/k-amara/syntax-shap) <br> [**SyntaxShap: Syntax-aware Explainability Method for Text Generation**](https://arxiv.org/pdf/2402.09259) <br>| arXiv | 2024-06-03 | [Github](https://github.com/k-amara/syntax-shap)| [Blog](https://syntaxshap.ivia.ch/) |
 | [**Calibrating Reasoning in Language Models with Internal Consistency**](https://arxiv.org/pdf/2405.18711) <br>| arXiv | 2024-05-29 | - | - |
+| [**Black-Box Access is Insufficient for Rigorous AI Audits**](https://arxiv.org/pdf/2401.14446) <br>| FAccT | 2024-05-29 | - | - |
 | [**Dual Process Learning: Controlling Use of In-Context vs. In-Weights Strategies with Weight Forgetting**](https://arxiv.org/pdf/2406.00053) <br>| arXiv | 2024-05-28 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/samuelperezdi/nuclr-icml) <br> [**From Neurons to Neutrons: A Case Study in Interpretability**](https://arxiv.org/pdf/2405.17425) <br>| ICML | 2024-05-27 | [Github](https://github.com/samuelperezdi/nuclr-icml)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/starship006/backup_research) <br> [**Explorations of Self-Repair in Language Models**](https://arxiv.org/pdf/2402.15390v2) <br>| ICML | 2024-05-26 | [Github](https://github.com/starship006/backup_research)| - |
@@ -87,9 +91,12 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/JoshEngels/MultiDimensionalFeatures) <br> [**Not All Language Model Features Are Linear**](https://arxiv.org/pdf/2405.14860) <br>| arXiv | 2024-05-23 | [Github](https://github.com/JoshEngels/MultiDimensionalFeatures)| - |
 | [**Using Degeneracy in the Loss Landscape for Mechanistic Interpretability**](https://arxiv.org/pdf/2405.10927) <br>| arXiv | 2024-05-20 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/AIRI-Institute/LLM-Microscope) <br> [**Your Transformer is Secretly Linear**](https://arxiv.org/pdf/2405.12250) <br>| arXiv | 2024-05-19 | [Github](https://github.com/AIRI-Institute/LLM-Microscope)| - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/AndreasMadsen/llm-introspection) <br> [**Are self-explanations from Large Language Models faithful?**](https://arxiv.org/pdf/2401.07927) <br>| ACL | 2024-05-16 | [Github](https://github.com/AndreasMadsen/llm-introspection)| - |
+| [**Faithfulness vs. Plausibility: On the (Un)Reliability of Explanations from Large Language Models**](https://arxiv.org/pdf/2402.04614) <br>| arXiv | 2024-05-14 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jgcarrasco/acronyms_paper) <br> [**How does GPT-2 Predict Acronyms? Extracting and Understanding a Circuit via Mechanistic Interpretability**](https://arxiv.org/pdf/2405.04156) <br>| AISTATS | 2024-05-07 | [Github](https://github.com/jgcarrasco/acronyms_paper)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/joykirat18/How-To-Think-Step-by-Step) <br> [**How to think step-by-step: A mechanistic understanding of chain-of-thought reasoning**](https://arxiv.org/pdf/2402.18312) <br>| arXiv | 2024-05-06 | [Github](https://github.com/joykirat18/How-To-Think-Step-by-Step)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/jmerullo/circuit_reuse) <br> [**Circuit Component Reuse Across Tasks in Transformer Language Models**](https://arxiv.org/pdf/2310.08744) <br>| ICLR | 2024-05-06 | [Github](https://github.com/jmerullo/circuit_reuse)| - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/DFKI-NLP/LLMCheckup) <br> [**LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations**](https://arxiv.org/pdf/2401.12576) <br>| HCI+NLP@NAACL | 2024-04-24 | [Github](https://github.com/DFKI-NLP/LLMCheckup)| - |
 | [**How to use and interpret activation patching**](https://arxiv.org/pdf/2404.15255v1) <br>| arXiv | 2024-04-23 | - | - |
 | [**Understanding Addition in Transformers**](https://arxiv.org/pdf/2310.13121v9) <br>| arXiv | 2024-04-23 | - | - |
 | [**Towards Uncovering How Large Language Model Works: An Explainability Perspective**](https://arxiv.org/pdf/2402.10688) <br>| arXiv | 2024-04-15 | - | - |
@@ -104,12 +111,17 @@
 | [**A Language Model's Guide Through Latent Space**](https://arxiv.org/pdf/2402.14433) <br>| arXiv | 2024-02-22 | - | - |
 | [**Interpreting Shared Circuits for Ordered Sequence Prediction in a Large Language Model**](https://arxiv.org/pdf/2311.04131v3) <br>| arXiv | 2024-02-22 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Nix07/finetuning) <br> [**Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking**](https://arxiv.org/pdf/2402.14811) <br>| ICLR | 2024-02-22 | [Github](https://github.com/Nix07/finetuning)| [Blog](https://finetuning.baulab.info/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/abhika-m/FAVA) <br> [**Fine-grained Hallucination Detection and Editing for Language Models**](https://arxiv.org/pdf/2401.06855) <br>| arXiv | 2024-02-21 | [Github](https://github.com/abhika-m/FAVA)| [Blog](https://fine-grained-hallucination.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/AnasHimmi/Hallucination-Detection-Score-Aggregation) <br> [**Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation**](https://arxiv.org/pdf/2402.13331) <br>| arXiv | 2024-02-20 | [Github](https://github.com/AnasHimmi/Hallucination-Detection-Score-Aggregation)| - |
 | [**Identifying Semantic Induction Heads to Understand In-Context Learning**](https://arxiv.org/pdf/2402.13055) <br>| arXiv | 2024-02-20 | - | - |
 | [**Backward Lens: Projecting Language Model Gradients into the Vocabulary Space**](https://arxiv.org/pdf/2402.12865) <br>| arXiv | 2024-02-20 | - | - |
 | [**Show Me How It's Done: The Role of Explanations in Fine-Tuning Language Models**](https://arxiv.org/pdf/2402.07543) <br>| ACML | 2024-02-12 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/john-hewitt/model-editing-canonical-examples) <br> [**Model Editing with Canonical Examples**](https://arxiv.org/pdf/2402.06155) <br>| arXiv | 2024-02-09 | [Github](https://github.com/john-hewitt/model-editing-canonical-examples)| - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ejmichaud/neural-verification) <br> [**Opening the AI black box: program synthesis via mechanistic interpretability**](https://arxiv.org/pdf/2402.05110) <br>| arXiv | 2024-02-07 | [Github](https://github.com/ejmichaud/neural-verification)| - |
+| [**INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection**](https://arxiv.org/pdf/2402.03744) <br>| ICLR | 2024-02-06 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/berlino/seq_icl) <br> [**In-Context Language Learning: Architectures and Algorithms**](https://arxiv.org/pdf/2401.12973) <br>| arXiv | 2024-01-30 | [Github](https://github.com/berlino/seq_icl)| - |
+| [**Gradient-Based Language Model Red Teaming**](https://arxiv.org/pdf/2401.16656) <br>| EACL | 2024-01-30 | [Github](https://github.com/google-research/google-research/tree/master/gbrt)| - |
+| [**The Calibration Gap between Model and Human Confidence in Large Language Models**](https://arxiv.org/pdf/2401.13835) <br>| arXiv | 2024-01-24 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wesg52/universal-neurons) <br> [**Universal Neurons in GPT2 Language Models**](https://arxiv.org/pdf/2401.12181) <br>| arXiv | 2024-01-22 | [Github](https://github.com/wesg52/universal-neurons)| - |
 | [**Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks**](https://openreview.net/pdf?id=A0HKeKl4Nl) <br>| ICLR | 2024-01-16 | - | - |
 | [**Successor Heads: Recurring, Interpretable Attention Heads In The Wild**](https://openreview.net/pdf?id=kvcbV8KQsi) <br>| ICLR | 2024-01-16 | - | - |
@@ -143,6 +155,9 @@
 | [**Interpreting Attention Layer Outputs with Sparse Autoencoders**](https://arxiv.org/pdf/2406.17759v1) <br>| arXiv | 2024-06-25 | - | [Demo](https://robertzk.github.io/circuit-explorer) |
 | [**Improving Language Models Trained with Translated Data via Continual Pre-Training and Dictionary Learning Analysis**](https://arxiv.org/pdf/2405.14277) <br>| arXiv | 2024-05-23 | - | - |
 | [**Automatically Identifying Local and Global Circuits with Linear Computation Graphs**](https://arxiv.org/pdf/2405.13868v1) <br>| arXiv | 2024-05-22 | - | - |
+| [**Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models**](https://arxiv.org/pdf/2405.12522) <br>| arXiv | 2024-05-21 | - | - |
+| [**Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control**](https://arxiv.org/pdf/2405.08366) <br>| arXiv | 2024-05-20 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/ApolloResearch/rib) <br> [**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**](https://arxiv.org/pdf/2405.10928) <br>| arXiv | 2024-05-20 | [Github](https://github.com/ApolloResearch/rib) | - |
 | [**Improving Dictionary Learning with Gated Sparse Autoencoders**](https://arxiv.org/pdf/2404.16014v2) <br>| arXiv | 2024-04-30 | - | - |
 | [**Dictionary Learning Improves Patch-Free Circuit Discovery in Mechanistic Interpretability: A Case Study on Othello-GPT**](https://arxiv.org/pdf/2402.12201) <br>| arXiv | 2024-02-19 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/HoagyC/sparse_coding) <br> [**Sparse Autoencoders Find Highly Interpretable Features in Language Models**](https://openreview.net/pdf?id=F76bwRSLeK) <br>| ICLR | 2024-01-16 | [Github](https://github.com/HoagyC/sparse_coding) | - |
@@ -164,6 +179,8 @@
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Benchmarking Mental State Representations in Language Models**](https://arxiv.org/pdf/2406.17513) <br>| MI@ICML | 2024-06-25 | - | - |
+| [**A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains**](https://arxiv.org/pdf/2402.00559) <br>| ACL | 2024-05-21 | [Dataset](https://huggingface.co/datasets/google/reveal) | [Blog](https://reveal-dataset.github.io/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/explanare/ravel) <br> [**RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations**](https://arxiv.org/pdf/2402.17700) <br>| arXiv | 2024-02-27 | [Github](https://github.com/explanare/ravel) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/aryamanarora/causalgym) <br> [**CausalGym: Benchmarking causal interpretability methods on linguistic tasks**](https://arxiv.org/pdf/2402.12560) <br>| arXiv | 2024-02-19 | [Github](https://github.com/aryamanarora/causalgym) | - |
 
 ## Enhancing Interpretability
