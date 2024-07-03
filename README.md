@@ -30,7 +30,6 @@
 - [AI Alignment Forum](https://www.alignmentforum.org/)
 - [LessWrong](https://www.lesswrong.com/)
 
-# Awesome Interpretability Datasets
 
 # Awesome Interpretability Tools
 - ![GitHub Repo stars](https://img.shields.io/github/stars/openai/transformer-debugger) [Transformer Debugger](https://github.com/openai/transformer-debugger): investigate specific behaviors of small LLMs 
@@ -144,25 +143,38 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wesg52/sparse-probing-paper) <br> [**Finding Neurons in a Haystack: Case Studies with Sparse Probing**](https://arxiv.org/pdf/2305.01610) <br>| arXiv | 2023-06-02 | [Github](https://github.com/wesg52/sparse-probing-paper) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bilal-chughtai/rep-theory-mech-interp) <br> [**A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations**](https://arxiv.org/pdf/2302.03025) <br>| ICML | 2023-05-24 | [Github](https://github.com/bilal-chughtai/rep-theory-mech-interp) | - |
 | [**Localizing Model Behavior with Path Patching**](https://arxiv.org/pdf/2304.05969) <br>| arXiv | 2023-05-16 | - | - |
+| [**Language models can explain neurons in language models**](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) <br>| OpenAI | 2023-05-09 | - | - |
 | [**N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models**](https://arxiv.org/pdf/2304.12918) <br>| ICLR Workshop | 2023-04-22 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/redwoodresearch/Easy-Transformer) <br> [**Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small**](https://arxiv.org/pdf/2211.00593) <br>| ICLR | 2023-01-20 | [Github](https://github.com/redwoodresearch/Easy-Transformer) | - |
 | [**Interpreting Neural Networks through the Polytope Lens**](https://arxiv.org/pdf/2211.12312) <br>| arXiv | 2022-11-22 | - | - |
 | [**Scaling Laws and Interpretability of Learning from Repeated Data**](https://arxiv.org/pdf/2205.10487) <br>| arXiv | 2022-05-21 | - | - |
+| [**A Mathematical Framework for Transformer Circuits**](https://transformer-circuits.pub/2021/framework/index.html) <br>| Anthropic | 2021-12-22 | - | - |
 
-## SAE and Dictionary Learning
+
+## SAE, Dictionary Learning and Superposition
 
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Interpreting Attention Layer Outputs with Sparse Autoencoders**](https://arxiv.org/pdf/2406.17759v1) <br>| arXiv | 2024-06-25 | - | [Demo](https://robertzk.github.io/circuit-explorer) |
 | [**Improving Language Models Trained with Translated Data via Continual Pre-Training and Dictionary Learning Analysis**](https://arxiv.org/pdf/2405.14277) <br>| arXiv | 2024-05-23 | - | - |
 | [**Automatically Identifying Local and Global Circuits with Linear Computation Graphs**](https://arxiv.org/pdf/2405.13868v1) <br>| arXiv | 2024-05-22 | - | - |
+| [**Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet**](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) <br>| Anthropic | 2024-05-21 | - | [Demo](https://transformer-circuits.pub/2024/scaling-monosemanticity/umap.html?targetId=34m_31164353) |
 | [**Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models**](https://arxiv.org/pdf/2405.12522) <br>| arXiv | 2024-05-21 | - | - |
 | [**Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control**](https://arxiv.org/pdf/2405.08366) <br>| arXiv | 2024-05-20 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ApolloResearch/rib) <br> [**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**](https://arxiv.org/pdf/2405.10928) <br>| arXiv | 2024-05-20 | [Github](https://github.com/ApolloResearch/rib) | - |
 | [**Improving Dictionary Learning with Gated Sparse Autoencoders**](https://arxiv.org/pdf/2404.16014v2) <br>| arXiv | 2024-04-30 | - | - |
 | [**Dictionary Learning Improves Patch-Free Circuit Discovery in Mechanistic Interpretability: A Case Study on Othello-GPT**](https://arxiv.org/pdf/2402.12201) <br>| arXiv | 2024-02-19 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/HoagyC/sparse_coding) <br> [**Sparse Autoencoders Find Highly Interpretable Features in Language Models**](https://openreview.net/pdf?id=F76bwRSLeK) <br>| ICLR | 2024-01-16 | [Github](https://github.com/HoagyC/sparse_coding) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/neelnanda-io/1L-Sparse-Autoencoder) <br> [**Towards Monosemanticity: Decomposing Language Models With Dictionary Learning**](https://transformer-circuits.pub/2023/monosemantic-features/index.html) <br>| Anthropic | 2023-10-04 | [Github](https://github.com/neelnanda-io/1L-Sparse-Autoencoder) | [Demo-1](https://transformer-circuits.pub/2023/monosemantic-features/vis/index.html), [Demo-2](https://transformer-circuits.pub/2023/monosemantic-features/vis/a1.html), [Tutorial](https://colab.research.google.com/drive/1u8larhpxy8w4mMsJiSBddNOzFGj7_RTn?usp=sharing) |
+| [**Polysemanticity and Capacity in Neural Networks**](https://arxiv.org/pdf/2210.01892) <br>| arXiv | 2023-07-12 | - | - |
+| [**Distributed Representations: Composition & Superposition**](https://transformer-circuits.pub/2023/superposition-composition/index.html) <br>| Anthropic | 2023-05-04 | - | - |
+| [**Superposition, Memorization, and Double Descent**](https://transformer-circuits.pub/2023/toy-double-descent/index.html) <br>| Anthropic | 2023-01-05 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/adamjermyn/toy_model_interpretability) <br> [**Engineering Monosemanticity in Toy Models**](https://arxiv.org/pdf/2211.09169) <br>| arXiv | 2022-11-16 | [Github](https://github.com/adamjermyn/toy_model_interpretability) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/toy-models-of-superposition) <br> [**Toy Models of Superposition**](https://transformer-circuits.pub/2022/toy_model/index.html) <br>| Anthropic | 2022-09-14 | [Github](https://github.com/anthropics/toy-models-of-superposition) | - |
+| [**Softmax Linear Units**](https://transformer-circuits.pub/2022/solu/index.html) <br>| Anthropic | 2022-06-27 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/zeyuyun1/TransformerVis) <br> [**Transformer visualization via dictionary learning: contextualized embedding as a linear superposition of transformer factors**](https://arxiv.org/pdf/2103.15949) <br>| DeeLIO@NAACL | 2021-03-29 | [Github](https://github.com/zeyuyun1/TransformerVis) | - |
+| [**Zoom In: An Introduction to Circuits**](https://distill.pub/2020/circuits/zoom-in/) <br>| Distill | 2020-03-10 | - | - |
+
 
 
 ## Interpretability in Vision LLMs
@@ -201,3 +213,5 @@
 
 # Other Awesome Interpretability Resources
 - [**Daily Picks in Interpretability & Analysis of LMs**](https://huggingface.co/collections/gsarti/daily-picks-in-interpretability-and-analysis-of-lms-65ae3339949c5675d25de2f9)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability) [**Awesome LLM Interpretability**](https://github.com/JShollaj/awesome-llm-interpretability)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zepingyu0512/awesome-llm-understanding-mechanism) [**awesome papers for understanding LLM mechanism**](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism)
