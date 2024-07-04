@@ -1,4 +1,29 @@
 # Awesome-Interpretability-in-Large-Language-Models
+The area of interpretability in large language models (LLMs) has been growing rapidly in recent years. This repository tries to collect all relevant resources to help bingginers quickly get started in this area and help researchers to keep up with the latest research progress.
+
+This is an active repository and welcome to open a new issue if I miss any relevant resources. If you have any questions or suggestions, please feel free to contact me via email: `ruizhe.li@abdn.ac.uk`.
+
+---
+
+<font size=5><center><b> Table of Contents </b> </center></font>
+- [Awesome Interpretability Libraries](#awesome-interpretability-libraries)
+- [Awesome Interpretability Blogs & Videos](#awesome-interpretability-blogs--videos)
+- [Awesome Interpretability Tutorials](#awesome-interpretability-tutorials)
+- [Awesome Interpretability Forums](#awesome-interpretability-forums)
+- [Awesome Interpretability Tools](#awesome-interpretability-tools)
+- [Awesome Interpretability Programs](#awesome-interpretability-programs)
+- [Awesome Interpretability Papers](#awesome-interpretability-papers)
+  - [Survey Papers](#survey-papers)
+  - [Position Papers](#position-papers)
+  - [Interpretable Analysis of LLMs](#interpretable-analysis-of-llms)
+  - [SAE, Dictionary Learning and Superposition](#sae-dictionary-learning-and-superposition)
+  - [Interpretability in Vision LLMs](#interpretability-in-vision-llms)
+  - [Benchmarking Interpretability](#benchmarking-interpretability)
+  - [Enhancing Interpretability](#enhancing-interpretability)
+  - [Others](#others)
+- [Other Awesome Interpretability Resources](#other-awesome-interpretability-resources)    
+
+---
 
 # Awesome Interpretability Libraries
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerLensOrg/TransformerLens) [**TransformerLens**](https://github.com/TransformerLensOrg/TransformerLens): A Library for Mechanistic Interpretability of Generative Language Models. ([Doc](https://transformerlensorg.github.io/TransformerLens/), [Tutorial](https://arena3-chapter1-transformer-interp.streamlit.app/[1.2]_Intro_to_Mech_Interp), [Demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Main_Demo.ipynb))
@@ -153,6 +178,8 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/likenneth/honest_llama) <br> [**Inference-Time Intervention: Eliciting Truthful Answers from a Language Model**](https://arxiv.org/pdf/2306.03341) <br>| NeurIPS | 2023-10-20 | [Github](https://github.com/likenneth/honest_llama) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/mechanistic-interpretability-grokking/progress-measures-paper) <br> [**Progress measures for grokking via mechanistic interpretability**](https://arxiv.org/pdf/2301.05217) <br>| ICLR | 2023-10-19 | [Github](https://github.com/mechanistic-interpretability-grokking/progress-measures-paper) | [Blog](https://www.neelnanda.io/grokking-paper) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/SERI-MATS-2023-Streamlit-pages) <br> [**Copy Suppression: Comprehensively Understanding an Attention Head**](https://arxiv.org/pdf/2310.04625) <br>| arXiv | 2023-10-06 | [Github](https://github.com/callummcdougall/SERI-MATS-2023-Streamlit-pages) | [Blog & Demo](https://copy-suppression.streamlit.app/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/google/belief-localization) <br> [**Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models**](https://openreview.net/pdf?id=EldbUlZtbd) <br>| NeurIPS | 2023-09-21 | [Github](https://github.com/google/belief-localization) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/frankaging/align-transformers) <br> [**Interpretability at Scale: Identifying Causal Mechanisms in Alpaca**](https://openreview.net/pdf?id=nRfClnMhVX) <br>| NeurIPS | 2023-09-21 | [Github](https://github.com/frankaging/align-transformers) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ajyl/mech_int_othelloGPT) <br> [**Emergent Linear Representations in World Models of Self-Supervised Sequence Models**](https://arxiv.org/pdf/2309.00941) <br>| BlackboxNLP@EMNLP | 2023-09-07 | [Github](https://github.com/ajyl/mech_int_othelloGPT) | [Blog](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wesg52/sparse-probing-paper) <br> [**Finding Neurons in a Haystack: Case Studies with Sparse Probing**](https://arxiv.org/pdf/2305.01610) <br>| arXiv | 2023-06-02 | [Github](https://github.com/wesg52/sparse-probing-paper) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bilal-chughtai/rep-theory-mech-interp) <br> [**A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations**](https://arxiv.org/pdf/2302.03025) <br>| ICML | 2023-05-24 | [Github](https://github.com/bilal-chughtai/rep-theory-mech-interp) | - |
@@ -209,6 +236,7 @@
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wrudman/NOTICE) <br> [**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Noise-free Text-Image Corruption and Evaluation**](https://arxiv.org/pdf/2406.16320) <br>| arXiv | 2024-06-24 | [Github](https://github.com/wrudman/NOTICE) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/maxdreyer/PURE) <br> [**PURE: Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits**](https://arxiv.org/pdf/2404.06453v1) <br>| XAI4CV@CVPR | 2024-04-09 | [Github](https://github.com/maxdreyer/PURE) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/AI4LIFE-GROUP/SpLiCE) <br> [**Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)**](https://arxiv.org/pdf/2402.10376v1) <br>| arXiv | 2024-02-16 | [Github](https://github.com/AI4LIFE-GROUP/SpLiCE) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/martinagvilas/vit-cls_emb) <br> [**Analyzing Vision Transformers for Image Classification in Class Embedding Space**](https://openreview.net/pdf?id=hwjmEZ8561) <br>| NeurIPS | 2023-09-21 | [Github](https://github.com/martinagvilas/vit-cls_emb) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability) <br> [**Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP**](https://arxiv.org/pdf/2308.14179) <br>| CLVL@ICCV | 2023-08-27 | [Github](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/brendel-group/imi) <br> [**Scale Alone Does not Improve Mechanistic Interpretability in Vision Models**](https://arxiv.org/pdf/2307.05471) <br>| NeurIPS | 2023-07-11 | [Github](https://github.com/brendel-group/imi) | [Blog](https://brendel-group.github.io/imi/) |
 
@@ -240,3 +268,4 @@
 - [**Daily Picks in Interpretability & Analysis of LMs**](https://huggingface.co/collections/gsarti/daily-picks-in-interpretability-and-analysis-of-lms-65ae3339949c5675d25de2f9)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability) [**Awesome LLM Interpretability**](https://github.com/JShollaj/awesome-llm-interpretability)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zepingyu0512/awesome-llm-understanding-mechanism) [**awesome papers for understanding LLM mechanism**](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism)
+
