@@ -16,11 +16,13 @@
 
 
 
-# Awesome Interpretability Blogs
+# Awesome Interpretability Blogs & Videos
 - [A Barebones Guide to Mechanistic Interpretability Prerequisites](https://www.neelnanda.io/mechanistic-interpretability/prereqs)
 - [Concrete Steps to Get Started in Transformer Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
 - [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers](https://www.neelnanda.io/mechanistic-interpretability/favourite-papers)
 - [200 Concrete Open Problems in Mechanistic Interpretability](https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability)
+- [3Blue1Brown: But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=ZzfZh0kYLZMV8I-8)
+- [3Blue1Brown: Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=6sEeo0CnCOnFWU0g)
 
 # Awesome Interpretability Tutorials
 - ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/ARENA_3.0) [ARENA 3.0](https://github.com/callummcdougall/ARENA_3.0): understand mechanistic interpretability using TransformerLens.
@@ -129,7 +131,10 @@
 | [**Gradient-Based Language Model Red Teaming**](https://arxiv.org/pdf/2401.16656) <br>| EACL | 2024-01-30 | [Github](https://github.com/google-research/google-research/tree/master/gbrt)| - |
 | [**The Calibration Gap between Model and Human Confidence in Large Language Models**](https://arxiv.org/pdf/2401.13835) <br>| arXiv | 2024-01-24 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wesg52/universal-neurons) <br> [**Universal Neurons in GPT2 Language Models**](https://arxiv.org/pdf/2401.12181) <br>| arXiv | 2024-01-22 | [Github](https://github.com/wesg52/universal-neurons)| - |
+| [**The mechanistic basis of data dependence and abrupt learning in an in-context classification task**](https://openreview.net/pdf?id=aN4Jf6Cx69) <br>| ICLR | 2024-01-16 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/dannyallover/overthinking_the_truth) <br> [**Overthinking the Truth: Understanding how Language Models Process False Demonstrations**](https://openreview.net/pdf?id=Tigr1kMDZy) <br>| ICLR | 2024-01-16 | [Github](https://github.com/dannyallover/overthinking_the_truth)| - |
 | [**Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks**](https://openreview.net/pdf?id=A0HKeKl4Nl) <br>| ICLR | 2024-01-16 | - | - |
+| [**Feature emergence via margin maximization: case studies in algebraic tasks**](https://openreview.net/pdf?id=i9wDX850jR) <br>| ICLR | 2024-01-16 | - | - |
 | [**Successor Heads: Recurring, Interpretable Attention Heads In The Wild**](https://openreview.net/pdf?id=kvcbV8KQsi) <br>| ICLR | 2024-01-16 | - | - |
 | [**Towards Best Practices of Activation Patching in Language Models: Metrics and Methods**](https://openreview.net/pdf?id=Hf17y6u9BC) <br>| ICLR | 2024-01-16 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ajyl/dpo_toxic) <br> [**A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity**](https://arxiv.org/pdf/2401.01967) <br>| arXiv | 2024-01-03 |  [Github](https://github.com/ajyl/dpo_toxic) | - |
