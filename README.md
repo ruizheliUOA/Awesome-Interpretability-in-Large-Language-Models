@@ -36,6 +36,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - ![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/penzai) [**Penzai**](https://github.com/google-deepmind/penzai): a JAX library for writing models as legible, functional pytree data structures, along with tools for visualizing, modifying, and analyzing them. ([Doc](https://penzai.readthedocs.io/en/stable/), [Tutorial](https://penzai.readthedocs.io/en/stable/notebooks/how_to_think_in_penzai.html))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rachtibat/LRP-eXplains-Transformers) [**LXT: LRP eXplains Transformers**](https://github.com/rachtibat/LRP-eXplains-Transformers): Layer-wise Relevance Propagation (LRP) extended to handle attention layers in Large Language Models (LLMs) and Vision Transformers (ViTs). ([Paper](https://arxiv.org/pdf/2402.05602), [Doc](https://lxt.readthedocs.io/en/latest/))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AlignmentResearch/tuned-lens) [**Tuned Lens**](https://github.com/AlignmentResearch/tuned-lens): Tools for understanding how transformer predictions are built layer-by-layer. ([Paper](https://arxiv.org/pdf/2303.08112), [Doc](https://tuned-lens.readthedocs.io/en/latest/))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/inseq-team/inseq) [**Inseq**](https://github.com/inseq-team/inseq): Pytorch-based toolkit for common post-hoc interpretability analyses of sequence generation models. ([Paper](http://arxiv.org/abs/2302.13942), [Doc](https://inseq.org/en/latest/))
 
 
 
