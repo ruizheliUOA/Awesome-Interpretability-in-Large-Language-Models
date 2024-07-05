@@ -1,4 +1,4 @@
-# Awesome-Interpretability-in-Large-Language-Models
+# Awesome Interpretability in Large Language Models
 The area of interpretability in large language models (LLMs) has been growing rapidly in recent years. This repository tries to collect all relevant resources to help bingginers quickly get started in this area and help researchers to keep up with the latest research progress.
 
 This is an active repository and welcome to open a new issue if I miss any relevant resources. If you have any questions or suggestions, please feel free to contact me via email: `ruizhe.li@abdn.ac.uk`.
