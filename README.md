@@ -38,6 +38,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rachtibat/LRP-eXplains-Transformers) [**LXT: LRP eXplains Transformers**](https://github.com/rachtibat/LRP-eXplains-Transformers): Layer-wise Relevance Propagation (LRP) extended to handle attention layers in Large Language Models (LLMs) and Vision Transformers (ViTs). ([Paper](https://arxiv.org/pdf/2402.05602), [Doc](https://lxt.readthedocs.io/en/latest/))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AlignmentResearch/tuned-lens) [**Tuned Lens**](https://github.com/AlignmentResearch/tuned-lens): Tools for understanding how transformer predictions are built layer-by-layer. ([Paper](https://arxiv.org/pdf/2303.08112), [Doc](https://tuned-lens.readthedocs.io/en/latest/))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/inseq-team/inseq) [**Inseq**](https://github.com/inseq-team/inseq): Pytorch-based toolkit for common post-hoc interpretability analyses of sequence generation models. ([Paper](http://arxiv.org/abs/2302.13942), [Doc](https://inseq.org/en/latest/))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/shap/shap) [**shap**](https://github.com/shap/shap): Python library for computing SHAP feature / token importance for any black box model. Works with hugginface, pytorch, tensorflow models, including LLMs. ([Paper](https://papers.nips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html), [Doc](https://shap.readthedocs.io/en/latest/)) 
 
 
 
