@@ -188,6 +188,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 | ![GitHub Repo stars](https://img.shields.io/github/stars/frankaging/align-transformers) <br> [**Interpretability at Scale: Identifying Causal Mechanisms in Alpaca**](https://openreview.net/pdf?id=nRfClnMhVX) <br>| NeurIPS | 2023-09-21 | [Github](https://github.com/frankaging/align-transformers) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ajyl/mech_int_othelloGPT) <br> [**Emergent Linear Representations in World Models of Self-Supervised Sequence Models**](https://arxiv.org/pdf/2309.00941) <br>| BlackboxNLP@EMNLP | 2023-09-07 | [Github](https://github.com/ajyl/mech_int_othelloGPT) | [Blog](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wesg52/sparse-probing-paper) <br> [**Finding Neurons in a Haystack: Case Studies with Sparse Probing**](https://arxiv.org/pdf/2305.01610) <br>| arXiv | 2023-06-02 | [Github](https://github.com/wesg52/sparse-probing-paper) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/yangalan123/Amortized-Interpretability) <br> [**Efficient Shapley Values Estimation by Amortization for Text Classification**](https://arxiv.org/pdf/2305.19998) <br>| ACL | 2023-05-31 | [Github](https://github.com/yangalan123/Amortized-Interpretability) | [Video](https://youtu.be/CsCRU8Hzpms?si=LMY4_TvEzi5D88OR) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/bilal-chughtai/rep-theory-mech-interp) <br> [**A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations**](https://arxiv.org/pdf/2302.03025) <br>| ICML | 2023-05-24 | [Github](https://github.com/bilal-chughtai/rep-theory-mech-interp) | - |
 | [**Localizing Model Behavior with Path Patching**](https://arxiv.org/pdf/2304.05969) <br>| arXiv | 2023-05-16 | - | - |
 | [**Language models can explain neurons in language models**](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) <br>| OpenAI | 2023-05-09 | - | - |
@@ -197,6 +198,8 @@ This is an active repository and welcome to open a new issue if I miss any relev
 | [**Scaling Laws and Interpretability of Learning from Repeated Data**](https://arxiv.org/pdf/2205.10487) <br>| arXiv | 2022-05-21 | - | - |
 | [**In-context Learning and Induction Heads**](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) <br>| Anthropic | 2022-03-08 | - | - |
 | [**A Mathematical Framework for Transformer Circuits**](https://transformer-circuits.pub/2021/framework/index.html) <br>| Anthropic | 2021-12-22 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/tech-srl/RASP) <br> [**Thinking Like Transformers**](https://arxiv.org/pdf/2211.00593) <br>| ICML | 2021-07-19 | [Github](https://github.com/tech-srl/RASP) | [Mini Tutorial](https://docs.google.com/presentation/d/1oIPHP_7qjsrnrDb3kdZIUZt-wQofkiQl/edit?usp=sharing&ouid=111912319459945992784&rtpof=true&sd=true) |
+
 
 
 ## SAE, Dictionary Learning and Superposition
