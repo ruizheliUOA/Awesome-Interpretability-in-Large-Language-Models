@@ -280,4 +280,4 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - [**Daily Picks in Interpretability & Analysis of LMs**](https://huggingface.co/collections/gsarti/daily-picks-in-interpretability-and-analysis-of-lms-65ae3339949c5675d25de2f9)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability) [**Awesome LLM Interpretability**](https://github.com/JShollaj/awesome-llm-interpretability)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zepingyu0512/awesome-llm-understanding-mechanism) [**awesome papers for understanding LLM mechanism**](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism)
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-Attention-Heads) [**Awesome-Attention-Heads**](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)
