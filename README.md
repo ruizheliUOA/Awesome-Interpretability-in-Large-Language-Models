@@ -281,3 +281,5 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability) [**Awesome LLM Interpretability**](https://github.com/JShollaj/awesome-llm-interpretability)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zepingyu0512/awesome-llm-understanding-mechanism) [**awesome papers for understanding LLM mechanism**](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-Attention-Heads) [**Awesome-Attention-Heads**](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/cooperleong00/Awesome-LLM-Interpretability) [**Awesome-LLM-Interpretability**](https://github.com/cooperleong00/Awesome-LLM-Interpretability)
+
