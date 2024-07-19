@@ -88,6 +88,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Position: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience**](https://openreview.net/pdf?id=66KmnMhGU5)| ICML | 2024-06-25 | - |
 |[**Position Paper: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience**](https://arxiv.org/pdf/2406.01352v1)| ICML | 2024-06-03 | - |
 |[**Interpretability Needs a New Paradigm**](https://arxiv.org/pdf/2405.05386v1)| arXiv | 2024-05-08 | - |
 |[**Position Paper: Toward New Frameworks for Studying Model Representations**](https://arxiv.org/pdf/2402.03855v1)| arXiv | 2024-02-06 | - |
@@ -99,6 +100,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Betswish/MIRAGE) <br> [**Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation**](https://arxiv.org/pdf/2406.13663) <br>| arXiv | 2024-07-01 | [Github](https://github.com/Betswish/MIRAGE) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/eliahuhorwitz/Spectral-DeTuning) <br> [**Recovering the Pre-Fine-Tuning Weights of Generative Models**](https://arxiv.org/pdf/2402.10208) <br>| ICML | 2024-07-01 | [Github](https://github.com/eliahuhorwitz/Spectral-DeTuning) | [Blog](https://vision.huji.ac.il/spectral_detuning/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/sfeucht/footprints) <br> [**Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs**](https://arxiv.org/pdf/2406.20086) <br>| arXiv | 2024-06-28 | [Github](https://github.com/sfeucht/footprints) | [Blog](https://footprints.baulab.info/) |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/jacobdunefsky/ObservablePropagation) <br> [**Observable Propagation: Uncovering Feature Vectors in Transformers**](https://openreview.net/pdf?id=ETNx4SekbY) <br>| ICML | 2024-06-25 | [Github](https://github.com/jacobdunefsky/ObservablePropagation) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/DanielSc4/Dynamic-Activation-Composition) <br> [**Multi-property Steering of Large Language Models with Dynamic Activation Composition**](https://arxiv.org/pdf/2406.17563) <br>| arXiv | 2024-06-25 | [Github](https://github.com/DanielSc4/Dynamic-Activation-Composition) | - |
 | [**Confidence Regulation Neurons in Language Models**](https://arxiv.org/pdf/2406.16254) <br>| arXiv | 2024-06-24 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/JasonGross/guarantees-based-mechanistic-interpretability) <br> [**Compact Proofs of Model Performance via Mechanistic Interpretability**](https://arxiv.org/pdf/2406.11779) <br>| arXiv | 2024-06-24 | [Github](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability/) | - |
