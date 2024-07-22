@@ -97,6 +97,10 @@ This is an active repository and welcome to open a new issue if I miss any relev
 ## Interpretable Analysis of LLMs
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Hypothesis Testing the Circuit Hypothesis in LLMs**](https://openreview.net/attachment?id=ibSNv9cldu&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/KihoPark/LLM_Categorical_Hierarchical_Representations) <br> [**The Geometry of Categorical and Hierarchical Concepts in Large Language Models**](https://openreview.net/attachment?id=KXuYjuBzKo&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | [Github](https://github.com/KihoPark/LLM_Categorical_Hierarchical_Representations) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/huangxt39/InversionView) <br> [**InversionView: A General-Purpose Method for Reading Information from Neural Activations**](https://openreview.net/attachment?id=P7MW0FahEq&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | [Github](https://github.com/huangxt39/InversionView) | - |
+| [**Missed Causes and Ambiguous Effects: Counterfactuals Pose Challenges for Interpreting Neural Networks**](https://openreview.net/attachment?id=pJs3ZiKBM5&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Betswish/MIRAGE) <br> [**Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation**](https://arxiv.org/pdf/2406.13663) <br>| arXiv | 2024-07-01 | [Github](https://github.com/Betswish/MIRAGE) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/eliahuhorwitz/Spectral-DeTuning) <br> [**Recovering the Pre-Fine-Tuning Weights of Generative Models**](https://arxiv.org/pdf/2402.10208) <br>| ICML | 2024-07-01 | [Github](https://github.com/eliahuhorwitz/Spectral-DeTuning) | [Blog](https://vision.huji.ac.il/spectral_detuning/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/sfeucht/footprints) <br> [**Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs**](https://arxiv.org/pdf/2406.20086) <br>| arXiv | 2024-06-28 | [Github](https://github.com/sfeucht/footprints) | [Blog](https://footprints.baulab.info/) |
@@ -173,7 +177,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 | [**Feature emergence via margin maximization: case studies in algebraic tasks**](https://openreview.net/pdf?id=i9wDX850jR) <br>| ICLR | 2024-01-16 | - | - |
 | [**Successor Heads: Recurring, Interpretable Attention Heads In The Wild**](https://openreview.net/pdf?id=kvcbV8KQsi) <br>| ICLR | 2024-01-16 | - | - |
 | [**Towards Best Practices of Activation Patching in Language Models: Metrics and Methods**](https://openreview.net/pdf?id=Hf17y6u9BC) <br>| ICLR | 2024-01-16 | - | - |
-| ![GitHub Repo stars](https://img.shields.io/github/stars/ajyl/dpo_toxic) <br> [**A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity**](https://arxiv.org/pdf/2401.01967) <br>| arXiv | 2024-01-03 |  [Github](https://github.com/ajyl/dpo_toxic) | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/ajyl/dpo_toxic) <br> [**A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity**](https://arxiv.org/pdf/2401.01967) <br>| ICML | 2024-01-03 |  [Github](https://github.com/ajyl/dpo_toxic) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ed1d1a8d/prompt-injection-interp) <br> [**Forbidden Facts: An Investigation of Competing Objectives in Llama-2**](https://arxiv.org/pdf/2312.08793) <br>| ATTRIB@NeurIPS | 2023-12-31 |  [Github](https://github.com/ed1d1a8d/prompt-injection-interp) | [Blog](https://www.lesswrong.com/posts/Ei8q37PB3cAky6kaK/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/saprmarks/geometry-of-truth) <br> [**The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets**](https://arxiv.org/pdf/2310.06824) <br>| arXiv | 2023-12-08 |  [Github](https://github.com/saprmarks/geometry-of-truth) | [Blog](https://saprmarks.github.io/geometry-of-truth/dataexplorer/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/amakelov/activation-patching-illusion) <br> [**Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching**](https://arxiv.org/pdf/2311.17030) <br>| ATTRIB@NeurIPS | 2023-12-06 |  [Github](https://github.com/amakelov/activation-patching-illusion) | - |
@@ -211,6 +215,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models**](https://openreview.net/attachment?id=qzsDKwGJyB&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 | [**Interpreting Attention Layer Outputs with Sparse Autoencoders**](https://arxiv.org/pdf/2406.17759v1) <br>| arXiv | 2024-06-25 | - | [Demo](https://robertzk.github.io/circuit-explorer) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ApolloResearch/e2e_sae) <br> [**Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning**](https://arxiv.org/pdf/2405.12241) <br>| arXiv | 2024-05-24 | [Github](https://github.com/ApolloResearch/e2e_sae) | - |
 | [**Improving Language Models Trained with Translated Data via Continual Pre-Training and Dictionary Learning Analysis**](https://arxiv.org/pdf/2405.14277) <br>| arXiv | 2024-05-23 | - | - |
@@ -247,6 +252,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/fooling-feature-visualizations) <br> [**Don’t trust your eyes: on the (un)reliability of feature visualizations**](https://openreview.net/pdf?id=s0Jvdolv2I) <br>| ICML | 2024-06-25 | [Github](https://github.com/google-research/fooling-feature-visualizations/) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wrudman/NOTICE) <br> [**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Noise-free Text-Image Corruption and Evaluation**](https://arxiv.org/pdf/2406.16320) <br>| arXiv | 2024-06-24 | [Github](https://github.com/wrudman/NOTICE) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/maxdreyer/PURE) <br> [**PURE: Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits**](https://arxiv.org/pdf/2404.06453v1) <br>| XAI4CV@CVPR | 2024-04-09 | [Github](https://github.com/maxdreyer/PURE) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/AI4LIFE-GROUP/SpLiCE) <br> [**Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)**](https://arxiv.org/pdf/2402.10376v1) <br>| arXiv | 2024-02-16 | [Github](https://github.com/AI4LIFE-GROUP/SpLiCE) | - |
