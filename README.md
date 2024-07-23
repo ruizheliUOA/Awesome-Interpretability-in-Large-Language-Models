@@ -78,6 +78,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Internal Consistency and Self-Feedback in Large Language Models: A Survey**](https://arxiv.org/pdf/2407.14507)| arXiv | 2024-07-22 | [Github](https://github.com/IAAR-Shanghai/ICSFSurvey) [Paper List](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg) |
 |[**From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP**](https://arxiv.org/pdf/2406.12618)| arXiv | 2024-06-18 | - |
 |[**A Primer on the Inner Workings of Transformer-based Language Models**](https://arxiv.org/pdf/2405.00208)| arXiv | 2024-05-02 | - |
 |[**Mechanistic Interpretability for AI Safety -- A Review**](https://arxiv.org/pdf/2404.14082)| arXiv | 2024-04-22 | - |
