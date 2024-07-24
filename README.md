@@ -58,9 +58,12 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/ARENA_3.0) [ARENA 3.0](https://github.com/callummcdougall/ARENA_3.0): understand mechanistic interpretability using TransformerLens.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/interpretingdl/eacl2024_transformer_interpretability_tutorial) [EACL24: Transformer-specific Interpretability](https://projects.illc.uva.nl/indeep/tutorial/) ([Github](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial))
 
-# Awesome Interpretability Forums
+# Awesome Interpretability Forums & Worhshops
 - [AI Alignment Forum](https://www.alignmentforum.org/)
 - [LessWrong](https://www.lesswrong.com/)
+- [Mechanistic Interpretability Workshop 2024 ICML](https://icml2024mi.pages.dev/) ([Accepted papers](https://openreview.net/group?id=ICML.cc/2024/Workshop/MI#tab-accept-oral))
+- [Attributing Model Behavior at Scale Workshop 2023 NeurIPS](https://attrib-workshop.cc/) ([Accepted papers](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ATTRIB&referrer=%5BHomepage%5D(%2F)#tab-accept-oral))
+- [BlackboxNLP 2023 EMNLP](https://blackboxnlp.github.io/2023/) ([Accepted papers](https://aclanthology.org/events/emnlp-2023/#2023blackboxnlp-1))
 
 
 # Awesome Interpretability Tools
@@ -79,6 +82,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Internal Consistency and Self-Feedback in Large Language Models: A Survey**](https://arxiv.org/pdf/2407.14507)| arXiv | 2024-07-22 | [Github](https://github.com/IAAR-Shanghai/ICSFSurvey) [Paper List](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg) |
+| [**Relational Composition in Neural Networks: A Survey and Call to Action**](https://openreview.net/attachment?id=zzCEiUIPk9&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 |[**From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP**](https://arxiv.org/pdf/2406.12618)| arXiv | 2024-06-18 | - |
 |[**A Primer on the Inner Workings of Transformer-based Language Models**](https://arxiv.org/pdf/2405.00208)| arXiv | 2024-05-02 | - |
 |[**Mechanistic Interpretability for AI Safety -- A Review**](https://arxiv.org/pdf/2404.14082)| arXiv | 2024-04-22 | - |
@@ -98,6 +102,13 @@ This is an active repository and welcome to open a new issue if I miss any relev
 ## Interpretable Analysis of LLMs
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Using Degeneracy in the Loss Landscape for Mechanistic Interpretability**](https://openreview.net/attachment?id=D8MDzUVlWA&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
+| [**Loss in the Crowd: Hidden Breakthroughs in Language Model Training**](https://openreview.net/attachment?id=Os3z6Oczuu&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
+| [**Robust Knowledge Unlearning via Mechanistic Localizations**](https://openreview.net/attachment?id=06pNzrEjnH&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
+| [**Language Models Linearly Represent Sentiment**](https://openreview.net/attachment?id=Xsf6dOOMMc&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/hannamw/eap-ig-faithfulness) <br> [**Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms**](https://openreview.net/attachment?id=grXgesr5dT&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | [Github](https://github.com/hannamw/eap-ig-faithfulness) | - |
+| [**Learning and Unlearning of Fabricated Knowledge in Language Models**](https://openreview.net/attachment?id=R5Q5lANcjY&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
+| [**Faithful and Fast Influence Function via Advanced Sampling**](https://openreview.net/attachment?id=TTVPbaxXjR&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 | [**Hypothesis Testing the Circuit Hypothesis in LLMs**](https://openreview.net/attachment?id=ibSNv9cldu&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/KihoPark/LLM_Categorical_Hierarchical_Representations) <br> [**The Geometry of Categorical and Hierarchical Concepts in Large Language Models**](https://openreview.net/attachment?id=KXuYjuBzKo&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | [Github](https://github.com/KihoPark/LLM_Categorical_Hierarchical_Representations) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/huangxt39/InversionView) <br> [**InversionView: A General-Purpose Method for Reading Information from Neural Activations**](https://openreview.net/attachment?id=P7MW0FahEq&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | [Github](https://github.com/huangxt39/InversionView) | - |
@@ -216,6 +227,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Sparse Autoencoders Match Supervised Features for Model Steering on the IOI Task**](https://openreview.net/attachment?id=JdrVuEQih5&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 | [**Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models**](https://openreview.net/attachment?id=qzsDKwGJyB&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 | [**Interpreting Attention Layer Outputs with Sparse Autoencoders**](https://arxiv.org/pdf/2406.17759v1) <br>| arXiv | 2024-06-25 | - | [Demo](https://robertzk.github.io/circuit-explorer) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ApolloResearch/e2e_sae) <br> [**Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning**](https://arxiv.org/pdf/2405.12241) <br>| arXiv | 2024-05-24 | [Github](https://github.com/ApolloResearch/e2e_sae) | - |
