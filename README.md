@@ -265,6 +265,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**The Missing Curve Detectors of InceptionV1: Applying Sparse Autoencoders to InceptionV1 Early Vision**](https://openreview.net/attachment?id=IGnoozsfj1&name=pdf) <br>| MechInterp@ICML | 2024-06-25 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/fooling-feature-visualizations) <br> [**Don’t trust your eyes: on the (un)reliability of feature visualizations**](https://openreview.net/pdf?id=s0Jvdolv2I) <br>| ICML | 2024-06-25 | [Github](https://github.com/google-research/fooling-feature-visualizations/) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/wrudman/NOTICE) <br> [**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Noise-free Text-Image Corruption and Evaluation**](https://arxiv.org/pdf/2406.16320) <br>| arXiv | 2024-06-24 | [Github](https://github.com/wrudman/NOTICE) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/maxdreyer/PURE) <br> [**PURE: Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits**](https://arxiv.org/pdf/2404.06453v1) <br>| XAI4CV@CVPR | 2024-04-09 | [Github](https://github.com/maxdreyer/PURE) | - |
@@ -277,7 +278,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Benchmarking Mental State Representations in Language Models**](https://arxiv.org/pdf/2406.17513) <br>| MI@ICML | 2024-06-25 | - | - |
+| [**Benchmarking Mental State Representations in Language Models**](https://arxiv.org/pdf/2406.17513) <br>| MechInterp@ICML | 2024-06-25 | - | - |
 | [**A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains**](https://arxiv.org/pdf/2402.00559) <br>| ACL | 2024-05-21 | [Dataset](https://huggingface.co/datasets/google/reveal) | [Blog](https://reveal-dataset.github.io/) |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/explanare/ravel) <br> [**RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations**](https://arxiv.org/pdf/2402.17700) <br>| arXiv | 2024-02-27 | [Github](https://github.com/explanare/ravel) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/aryamanarora/causalgym) <br> [**CausalGym: Benchmarking causal interpretability methods on linguistic tasks**](https://arxiv.org/pdf/2402.12560) <br>| arXiv | 2024-02-19 | [Github](https://github.com/aryamanarora/causalgym) | - |
