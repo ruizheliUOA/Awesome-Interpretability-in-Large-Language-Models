@@ -83,6 +83,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Attention Heads of Large Language Models: A Survey**](https://arxiv.org/pdf/2409.03752)| arXiv | 2024-09-06 | [Github](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) |
 |[**Internal Consistency and Self-Feedback in Large Language Models: A Survey**](https://arxiv.org/pdf/2407.14507)| arXiv | 2024-07-22 | [Github](https://github.com/IAAR-Shanghai/ICSFSurvey) [Paper List](https://www.yuque.com/zhiyu-n2wnm/ugzwgf/gmqfkfigd6xw26eg) |
 | [**Relational Composition in Neural Networks: A Survey and Call to Action**](https://openreview.net/attachment?id=zzCEiUIPk9&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 |[**From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP**](https://arxiv.org/pdf/2406.12618)| arXiv | 2024-06-18 | - |
