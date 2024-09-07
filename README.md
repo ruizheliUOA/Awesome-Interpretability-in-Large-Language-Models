@@ -53,6 +53,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - [200 Concrete Open Problems in Mechanistic Interpretability](https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability)
 - [3Blue1Brown: But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=ZzfZh0kYLZMV8I-8)
 - [3Blue1Brown: Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=6sEeo0CnCOnFWU0g)
+- [3Blue1Brown: How might LLMs store facts | Chapter 7, Deep Learning](https://youtu.be/9-Jl0dxWQs8?si=xuf9XIV7AieZDOYA)
 
 # Awesome Interpretability Tutorials
 - ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/ARENA_3.0) [ARENA 3.0](https://github.com/callummcdougall/ARENA_3.0): understand mechanistic interpretability using TransformerLens.
