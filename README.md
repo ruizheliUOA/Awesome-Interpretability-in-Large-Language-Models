@@ -57,6 +57,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 # Awesome Interpretability Tutorials
 - ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/ARENA_3.0) [ARENA 3.0](https://github.com/callummcdougall/ARENA_3.0): understand mechanistic interpretability using TransformerLens.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/interpretingdl/eacl2024_transformer_interpretability_tutorial) [EACL24: Transformer-specific Interpretability](https://projects.illc.uva.nl/indeep/tutorial/) ([Github](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial))
+- [ICML24: Physics of Language Models](https://physics.allen-zhu.com/home) ([Youtube](https://youtu.be/yBL7J0kgldU?si=KP0mlA7Oy0of2tUj))
 
 # Awesome Interpretability Forums & Worhshops
 - [AI Alignment Forum](https://www.alignmentforum.org/)
