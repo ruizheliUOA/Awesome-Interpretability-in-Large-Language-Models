@@ -108,6 +108,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 ## Interpretable Analysis of LLMs
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models**](https://arxiv.org/abs/2408.02416) <br>| - | 2024-08-05 | [Github](https://github.com/liangzid/PromptExtractionEval) | - |
 | [**Learning Syntax Without Planting Trees: Understanding When and Why Transformers Generalize Hierarchically**](https://openreview.net/attachment?id=YwLgSimUIT&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/JasonGross/guarantees-based-mechanistic-interpretability) <br> [**Compact Proofs of Model Performance via Mechanistic Interpretability**](https://openreview.net/attachment?id=4B5Ovl9MLE&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | [Github](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability/) | - |
 | [**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**](https://openreview.net/attachment?id=gz0r3w71zQ&name=pdf) <br>| MechInterp@ICML | 2024-07-15 | - | - |
