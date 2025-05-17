@@ -54,6 +54,8 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - [3Blue1Brown: But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=ZzfZh0kYLZMV8I-8)
 - [3Blue1Brown: Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=6sEeo0CnCOnFWU0g)
 - [3Blue1Brown: How might LLMs store facts | Chapter 7, Deep Learning](https://youtu.be/9-Jl0dxWQs8?si=xuf9XIV7AieZDOYA)
+- [Practical, Real-World Neural Network Interpretability and Deployment (2021)](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume3/volume3.pdf)
+- [The Determinants of Controllable AGI (2025)](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume5/volume5.pdf)
 
 # Awesome Interpretability Tutorials
 - ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/ARENA_3.0) [ARENA 3.0](https://github.com/callummcdougall/ARENA_3.0): understand mechanistic interpretability using TransformerLens.
@@ -61,7 +63,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - [ICML24: Physics of Language Models](https://physics.allen-zhu.com/home) ([Youtube](https://youtu.be/yBL7J0kgldU?si=KP0mlA7Oy0of2tUj))
 - [NAACL24: Explanations in the Era of Large Language Models](https://explanation-llm.github.io/)
 
-# Awesome Interpretability Forums & Worhshops
+# Awesome Interpretability Forums & Workshops
 - [AI Alignment Forum](https://www.alignmentforum.org/)
 - [LessWrong](https://www.lesswrong.com/)
 - [Mechanistic Interpretability Workshop 2024 ICML](https://icml2024mi.pages.dev/) ([Accepted papers](https://openreview.net/group?id=ICML.cc/2024/Workshop/MI#tab-accept-oral))
@@ -109,6 +111,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 ## Interpretable Analysis of LLMs
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Similarity-Distance-Magnitude Universal Verification**](https://arxiv.org/abs/2502.20167) <br>| arXiv | 2025-02-27 | [Github](https://github.com/ReexpressAI/sdm) | [Example App](https://github.com/ReexpressAI/reexpress_mcp_server) |
 | [**Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions**](https://arxiv.org/pdf/2402.15055) <br>| EMNLP | 2024-10-23 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/apartresearch/seqcont_circuits) <br> [**Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models**](https://arxiv.org/pdf/2311.04131) <br>| EMNLP | 2024-10-04 | [Github](https://github.com/apartresearch/seqcont_circuits) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ydyjya/LLM-IHS-Explanation) <br> [**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**](https://arxiv.org/pdf/2406.05644) <br>| EMNLP | 2024-10-01 | [Github](https://github.com/ydyjya/LLM-IHS-Explanation) | - |
@@ -243,6 +246,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 | [**In-context Learning and Induction Heads**](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) <br>| Anthropic | 2022-03-08 | - | - |
 | [**A Mathematical Framework for Transformer Circuits**](https://transformer-circuits.pub/2021/framework/index.html) <br>| Anthropic | 2021-12-22 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/tech-srl/RASP) <br> [**Thinking Like Transformers**](https://arxiv.org/pdf/2211.00593) <br>| ICML | 2021-07-19 | [Github](https://github.com/tech-srl/RASP) | [Mini Tutorial](https://docs.google.com/presentation/d/1oIPHP_7qjsrnrDb3kdZIUZt-wQofkiQl/edit?usp=sharing&ouid=111912319459945992784&rtpof=true&sd=true) |
+| [**Detecting Local Insights from Global Labels: Supervised & Zero-Shot Sequence Labeling via a Convolutional Decomposition**](https://doi.org/10.1162/coli_a_00416) <br>| Computational Linguistics | 2021-07-12 | [Github](https://github.com/allenschmaltz/exa) | [Poster](https://github.com/allenschmaltz/exa/blob/main/emnlp_2021_presentation/emnlp_2021_cl_paper_1780_poster.pdf) |
 
 
 
