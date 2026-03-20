@@ -60,6 +60,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - ![GitHub Repo stars](https://img.shields.io/github/stars/interpretingdl/eacl2024_transformer_interpretability_tutorial) [EACL24: Transformer-specific Interpretability](https://projects.illc.uva.nl/indeep/tutorial/) ([Github](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial))
 - [ICML24: Physics of Language Models](https://physics.allen-zhu.com/home) ([Youtube](https://youtu.be/yBL7J0kgldU?si=KP0mlA7Oy0of2tUj))
 - [NAACL24: Explanations in the Era of Large Language Models](https://explanation-llm.github.io/)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Jonny-English/circuits-zoom-in) [Zoom In: An Introduction to Circuits (Bilingual)](https://github.com/Jonny-English/circuits-zoom-in): Bilingual (Chinese/English) hands-on Jupyter notebook tutorial reproducing Olah et al. 2020's foundational circuits research, covering feature visualization and mechanistic interpretability in CNNs.
 
 # Awesome Interpretability Forums & Worhshops
 - [AI Alignment Forum](https://www.alignmentforum.org/)
