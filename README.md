@@ -100,6 +100,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**The Generative Horizon: Applied Hermeneutics, Linguistic Attractors, and the Limits of Model Self-Report**](https://doi.org/10.5281/zenodo.21659634)| Zenodo (preprint) | 2026-07-30 | [Github](https://github.com/hermes-labs-ai/the-generative-horizon) |
 |[**Position: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience**](https://openreview.net/pdf?id=66KmnMhGU5)| ICML | 2024-06-25 | - |
 |[**Position Paper: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience**](https://arxiv.org/pdf/2406.01352v1)| ICML | 2024-06-03 | - |
 |[**Interpretability Needs a New Paradigm**](https://arxiv.org/pdf/2405.05386v1)| arXiv | 2024-05-08 | - |
