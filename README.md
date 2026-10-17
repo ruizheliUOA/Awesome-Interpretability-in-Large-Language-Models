@@ -75,6 +75,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/sae_vis) [sae_vis](https://github.com/callummcdougall/sae_vis): a tool to replicate Anthropic's sparse autoencoder visualisations ([Demo](https://colab.research.google.com/drive/1oqDS35zibmL1IUQrk_OSTxdhcGrSS6yO?usp=drive_link)) 
 - [**Neuronpedia**](https://www.neuronpedia.org/): an open platform for interpretability research. ([Doc](https://docs.neuronpedia.org/))
 - ![GitHub Repo stars](https://img.shields.io/github/stars/FlorianDietz/comgra) [Comgra](https://github.com/FlorianDietz/comgra): A tool to analyze and debug neural networks in pytorch. Use a GUI to traverse the computation graph and view the data from many different angles at the click of a button. ([Paper](https://openreview.net/attachment?id=TcMmriVrgs&name=pdf))
+- ![GitHub Repo stars](https://img.shields.io/github/stars/IlyaKhalafi/CircuitLantern) [Circuit Lantern](https://github.com/IlyaKhalafi/CircuitLantern) - A local web app for transformer activation tracing, residual patching, attention head ablation, and sparse autoencoder experiments.
 
 
 # Awesome Interpretability Programs
