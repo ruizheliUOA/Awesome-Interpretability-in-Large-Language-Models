@@ -109,6 +109,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 ## Interpretable Analysis of LLMs
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/nguyentuc/INNSteer) <br> [**Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior**](https://arxiv.org/pdf/2606.08454) <br>| NeurIPS | 2026-06-07 | [Github](https://github.com/nguyentuc/INNSteer) | - |
 | [**Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions**](https://arxiv.org/pdf/2402.15055) <br>| EMNLP | 2024-10-23 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/apartresearch/seqcont_circuits) <br> [**Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models**](https://arxiv.org/pdf/2311.04131) <br>| EMNLP | 2024-10-04 | [Github](https://github.com/apartresearch/seqcont_circuits) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ydyjya/LLM-IHS-Explanation) <br> [**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**](https://arxiv.org/pdf/2406.05644) <br>| EMNLP | 2024-10-01 | [Github](https://github.com/ydyjya/LLM-IHS-Explanation) | - |
